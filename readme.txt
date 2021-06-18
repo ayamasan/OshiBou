@@ -7,7 +7,10 @@ Features
 - Data transferred directly to M5Stick via Wi-Fi 
 - Display is character by character or all characters 
 - To start the display, press the A button or shake 
-- The display direction is alternating left and right or only in one direction. 
+- The display direction is alternating left and right or only in one direction 
+- Display speed is 2 levels 
+- Text color can be selected from 7 colors 
+- Black or white can be set for the background 
 
 How to write a program 
 1. Create a new folder on Windows and copy oshibou.ino.m5stick_c.zip 
